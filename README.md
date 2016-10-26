@@ -11,5 +11,5 @@
    
 ##效果图：
    
-   <img style="width:300px;height: 200px;" src="/img/weixin.jpg"/>
+   <img style="width:200px;height: 100px;" src="/img/weixin.jpg"/>
    
