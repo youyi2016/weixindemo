@@ -11,5 +11,5 @@
    
 ##效果图：
    
-   
+   ![Alt text](/img/weixin.jpg)
    
