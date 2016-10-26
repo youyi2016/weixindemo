@@ -11,5 +11,5 @@
    
 ##效果图：
    
-   ![Alt text](/img/weixin.jpg)
+   <img style="width:300px;height: 200px;" src="/img/weixin.jpg"/>
    
