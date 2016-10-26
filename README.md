@@ -13,3 +13,5 @@
    
    <img style="width:200px;height: 100px;" src="/img/weixin.jpg"/>
    
+   <img src="/img/weixin2.jpg" />
+   
